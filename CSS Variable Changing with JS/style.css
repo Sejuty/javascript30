@@ -1,0 +1,35 @@
+:root {
+  --base: #ffc600;
+  --spacing: 10px;
+  --blur: 10px;
+}
+
+img {
+  margin-top: 30px;
+  padding: var(--spacing);
+  background: var(--base);
+  filter: blur(var(--blur));
+  height: 50vh;
+  width: 80vh;
+}
+.h1 {
+  color: var(--base);
+}
+
+body {
+  text-align: center;
+  background: #193549;
+  color: white;
+  font-size: 50px;
+  font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+  font-weight: 100;
+}
+.controls {
+  margin-bottom: 50px;
+}
+input {
+  width: 100px;
+}
+label {
+  font-weight: lighter;
+}

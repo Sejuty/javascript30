@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css" />
     <title>Css Variables</title>
   </head>
   <body>
@@ -33,54 +34,6 @@
       <img src="bg.jpg" alt="Drop your image" />
     </div>
 
-    <style>
-      :root {
-        --base: #ffc600;
-        --spacing: 10px;
-        --blur: 10px;
-      }
-
-      img {
-        margin-top: 30px;
-        padding: var(--spacing);
-        background: var(--base);
-        filter: blur(var(--blur));
-        height: 50vh;
-        width: 80vh;
-      }
-      .h1 {
-        color: var(--base);
-      }
-
-      body {
-        text-align: center;
-        background: #193549;
-        color: white;
-        font-size: 50px;
-        font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
-          sans-serif;
-        font-weight: 100;
-      }
-      .controls {
-        margin-bottom: 50px;
-      }
-      input {
-        width: 100px;
-      }
-      label {
-        font-weight: lighter;
-      }
-    </style>
-    <script>
-      const inputs = document.querySelectorAll(".controls input");
-      console.log(inputs);
-
-      function handleUpdate() {
-        const suffix = this.dataset.sizing || "";
-        document.documentElement.style.setProperty (`--${this.name}`, this.value + suffix);
-      }
-
-      inputs.forEach((input) => input.addEventListener("change", handleUpdate));
-    </script>
+    <script src="app.js"></script>
   </body>
 </html>
