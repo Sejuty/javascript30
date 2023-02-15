@@ -3,9 +3,9 @@
 ## Table of contents
 
 - [01-Drumkit](#drumkit)
-- [02-Css/JSClock](#css-JSClock)
+- [02-Css/JSClock](#cssjsclock)
 - [03-CSS Variable Changing with JS](#css-variable-changing-with-js)
-- [04-Array Cardio Day -1](#array-cardio-day-1)
+- [04-Array Cardio Day -1](#array-cardio-day--1)
 - [05-Flex Panel Image Gallery](#flex-panel-image-gallery)
 - [06-Ajax Type Ahead](#ajax-type-ahead)
 - [07-Array Cardio Day-2](#array-cardio-day-2)
