@@ -15,3 +15,5 @@
 
 
 # 01-drumkit
+
+idhgisdfugvnfosdig iudfhge9srigh  isfuhgosduf  fdhgosdfgn dhfgsdofo;asguj  sdofiueit  sdoifehir geg osirrrrrrt  odisf getiu oihfgsog
