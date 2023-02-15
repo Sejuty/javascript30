@@ -33,13 +33,21 @@ This is an analog clock built using css. It takes in the current time from javas
 ![clock](./02-css_js%20clock/ss.png)
 ## CSS Variable Changing with JS
 Here css variables can be updated with javascript. In this small project I've got three variables : spacing, blur and base color. When one of the variables is changed it will reflect on the embedded picture.
+
 ![css variable changed](./03-CSS%20Variable%20Changing%20with%20JS/ss.png)
 
 ## Array Cardio Day -1
 I have practiced fundamentals of javascript , array methods such as `array.filter()`, `array.map()`, `array.sort()`, `array.reduce()`.
-1. ## Flex Panel Image Gallery
-1. ## Ajax Type Ahead
-1. ## Array Cardio Day-2
+## Flex Panel Image Gallery
+This is a flex gallery. It leans heavily upon css for flexbox and transitions. When a picture is clicked, the picture will expand and two other words will come from above and below at the same time.
+
+![flex gallery](./05-Flex%20Panel%20Image%20Gallery/ss.png)
+## Ajax Type Ahead
+This project is based on **Type Ahead Feature**. If we give any letter or word in the input field it's going to show everything that matches the specific letter or word. if we type **Bo** it's going to show every single city and state that matches whatever have been typed along with the population.
+
+![Type Ahead](./06-Ajax%20Type%20Ahead/ss.png)
+
+## Array Cardio Day-2
 1. ## Fun With HTML5 Canvas
 1. ## Dev Tool Tricks
 1. ## Check Multiple Checkbox
