@@ -1,0 +1,38 @@
+html {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: url(pic.jpg) center no-repeat;
+  background-size: cover;
+  font-family: monospace;
+}
+#bands {
+  list-style: none;
+  background-color: rgb(224, 233, 240);
+  padding: 35px;
+  border-radius: 10px;
+}
+.scroll {
+  width: fit-content;
+  padding: 20px;
+  height: 70vh;
+  overflow: auto;
+  border-radius: 10px;
+  
+}
+.scroll::-webkit-scrollbar {
+  display: none;
+}
+#bands li {
+  padding: 10px;
+  font-size: 20px;
+  border-bottom: 2px rgba(0, 0, 0, 0.168) solid;
+}
+h1{
+    text-align: center;
+    font-size: 40px;
+    color: white;
+    background-color: black;
+    margin-bottom: 0;
+}
