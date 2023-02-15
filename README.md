@@ -23,10 +23,20 @@
 
 
 
-1. ## Drumkit
-1. ## Css/JSClock
-1. ## CSS Variable Changing with JS
-1. ## Array Cardio Day -1
+## Drumkit
+    A javascript Drumkit. When we hit the corresponding key on our keyboard its going to do two things. First of all it's going to play the sound that's associated with the key and second of all its going to do a short little animation where it pops the button a little bit bigger. And then also it will apply a distinct border and a subtle background color.
+
+![drumkit](./01-drumkit/ss.png)
+## Css/JSClock
+    This is an analog clock built using css. It takes in the current time from javascript and its going to update the second's, minute's and hour's hands accordingly.
+
+![clock](./02-css_js%20clock/ss.png)
+## CSS Variable Changing with JS
+    Here css variables can be updated with javascript. In this small project I've got three variables : spacing, blur and base color. When one of the variables is changed it will reflect on the embedded picture.
+![css variable changed](./03-CSS%20Variable%20Changing%20with%20JS/ss.png)
+
+## Array Cardio Day -1
+    I have practiced fundamentals of javascript , array methods such as `array.filter()`, `array.map()`, `array.sort()`, `array.reduce()`.
 1. ## Flex Panel Image Gallery
 1. ## Ajax Type Ahead
 1. ## Array Cardio Day-2

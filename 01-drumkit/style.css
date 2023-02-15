@@ -27,7 +27,7 @@ body{
 .playing{
     transform: scale(1.3);
     transform: scale(1.1);
-    border-color: #53ff45;
+    border-color: green;
     box-shadow: 0 0 1rem #53ff45;
 }
 kbd{
