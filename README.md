@@ -1,7 +1,7 @@
 
 # Table of contents
 
-- [01-Drumkit](#usage)
+- [01-Drumkit](#01-drumkit)
 - [Flags](#flags)
 - [Combination of flags](#combination-of-flags)
 - [Installation](#installation)
