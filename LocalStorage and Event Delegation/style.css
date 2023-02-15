@@ -1,0 +1,74 @@
+* {
+  list-style: none;
+}
+html {
+  background: url("pic2.jpg") no-repeat center fixed;
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  background-size: cover;
+  height: 100%;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: rgb(255, 255, 255);
+  overflow-y: hidden;
+}
+
+svg {
+  fill: white;
+  width: 150px;
+  padding: 20px;
+  border: rgba(255, 255, 255, 0.159) 2px solid;
+  border-radius: 50%;
+  background: rgba(255, 255, 255, 0.164);
+}
+.wrapper {
+  margin: 20px;
+  padding: 20px;
+  background: rgba(255, 255, 255, 0.072);
+  border-radius: 15px;
+  box-shadow: 3px 3px rgba(255, 255, 255, 0.204);
+}
+h2 {
+  color: rgba(255, 255, 255, 0.622);
+  font-size: 40px;
+  text-shadow: 5px 5px rgba(0, 0, 0, 0.514);
+}
+.scroll {
+  background-color: rgba(0, 0, 0, 0.351);
+  width: 200px;
+  padding: 20px;
+  height: 110px;
+  overflow: auto;
+  border-radius: 10px;
+  margin: 20px;
+}
+.scroll::-webkit-scrollbar {
+  display: none;
+}
+.plates {
+  margin: 0;
+  padding: 0;
+  text-align: left;
+  list-style: none;
+}
+.plates li {
+  border-bottom: 1px solid rgba(255, 255, 255, 0.077);
+  padding: 10px 0;
+  font-weight: 100;
+  display: flex;
+}
+
+input[type="text"],
+input[type="submit"] {
+  padding: 10px;
+  border-radius: 10px;
+  background-color: rgba(0, 0, 0, 0.303);
+  box-shadow: none;
+  color: white;
+}
+input[type=checkbox]{
+    accent-color: rgb(73, 73, 73);
+}
