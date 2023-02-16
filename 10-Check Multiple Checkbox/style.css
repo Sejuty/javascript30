@@ -1,6 +1,7 @@
 html {
-  font-family: sans-serif;
-  background: #3c4f93;
+  font-family:cursive;
+  background: url(pic.jpg) center no-repeat;
+  background-size: cover;
 }
 
 .container {
@@ -44,7 +45,7 @@ p {
   padding: 20px;
   transition: background 0.2s;
   flex: 1;
-  font-family: "helvetica neue";
+  font-family: cursive;
   font-size: 20px;
   font-weight: 200;
   border-left: 1px solid #d1e2ff;
