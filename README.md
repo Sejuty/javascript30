@@ -58,15 +58,16 @@ This is a canvas. If we click down and drag our mouse and let go it's going to d
 ## 09-Dev Tool Tricks
 This a small project where we can learn about some dev tools and console tricks. We can learn things like clearing the console, styling in the console, showing custom warning, error, info, table, viewing DOM elements in the console. We can also count word, the timimg to fetch some data, grouping some info together, interpolating and assertion.
 
-## Check Multiple Checkbox
+## 10-Check Multiple Checkbox
 This is a checkbox where if we click a checkbox and then hold down the **shift key** and click another one, all the checkbox's between the first one and the second one will be checked. this works top to bottom but also from bottom to top.
 
 ![Check Box](./10-Check%20Multiple%20Checkbox/ss.png)
-1. ## HTML video Player
-1. ## Key Sequence Detection
-1. ## Slide In on Scroll
-1. ## Object and Arrays - Reference VS Copy
-1. ## LocalStorage and Event Delegation
-1. ## CSS Text Shadow Mouse Move Effect
-1. ## Sorting Band Names without articles
-1. ## Tally String Times with Reduce
+
+## HTML video Player
+## Key Sequence Detection
+## Slide In on Scroll
+## Object and Arrays - Reference VS Copy
+## LocalStorage and Event Delegation
+## CSS Text Shadow Mouse Move Effect
+## Sorting Band Names without articles
+## Tally String Times with Reduce
